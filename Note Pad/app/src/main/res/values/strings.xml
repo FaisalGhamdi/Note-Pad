@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Note Pad</string>
+    <string name="multi_notes">Multi Notes</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="copy_right">\u00A9 2019, </string>
+    <string name="save">save</string>
+
+
+
+    <string name="file_name">Note.json</string>
+    <string name="encoding">UTF-8</string>
+    <string name="no_file">No JSON Note File Present</string>
+    <string name="saved">Note Saved!</string>
+    <string name="not_saved">Note NOT Saved!</string>
+
+</resources>
